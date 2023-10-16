@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190925/pngtree-plain-background-image_315700.jpg");
+  background-size: cover;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
